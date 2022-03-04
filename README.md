@@ -1,1 +1,1 @@
-![MovieLand](sample)
+![MovieLand](sample.png)
